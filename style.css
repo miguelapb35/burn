@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+body {
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: hsla(11, 95%, 15%, 1);
+  cursor: move;
+}
